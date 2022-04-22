@@ -1,2 +1,2 @@
 # SpringData-JPA
-An Application using Spring with H2 database and Mysql
+Spring with H2 database and Mysql
